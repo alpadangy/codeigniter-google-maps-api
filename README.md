@@ -11,3 +11,6 @@ Donate Email: khanhnv24h@gmail
 
 ## Contact us:
 Email: khanhnv24h@gmail.com
+
+## Screenshots of public pages
+![alt text](https://github.com/khanhnv24h/codeigniter-google-maps-api/blob/master/codeigniter-google-maps-api.png "")
